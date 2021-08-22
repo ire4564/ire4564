@@ -1,6 +1,8 @@
 
 💜 I'm FE Developer :0 Welcome to my GitHub!
 
+**[About Me - Resume](https://irelifesheet.notion.site/About-Me-7abbf9c908424552965646317385d345)**
+
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=ire4564&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=ire4564&layout=compact&theme=dracula)
 
 
