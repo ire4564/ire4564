@@ -1,5 +1,5 @@
 
-💜 I'm FE Developer :0 Welcome to my GitHub!
+💜 I'm FE Developer :0 Welcome to my GitHub
 
 **[About Me - Resume](https://irelifesheet.notion.site/About-Me-7abbf9c908424552965646317385d345)**
 
