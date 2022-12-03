@@ -5,14 +5,12 @@
 Hello!👋 I'm Dohee Kim, Front-end developer <br/>
 interested in user-centric UI implementation and design✨ <br/>
 
-I mainly uses React and functional programming <br/>
-based on TypeScript 💫 I'm always interested in new things!
-
 </div>
   
 ## About Me
 * 📝 Study at Chungnam National University (CNU CSE 18)
 * 💼 *Front End Developer* at SANDBOXNETWORK
+* Mainly uses React and functional programming (TypeScript)
 
 
 ## Skills
