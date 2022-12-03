@@ -5,9 +5,9 @@
 
 <br/>
   
-Hello!👋 I'm Dohee Kim <br/>
-a Front-end developer interested in <br/>
+Hello!👋 I'm Dohee Kim, a Front-end developer interested in <br/>
 user-centric UI implementation and design✨ <br/>
+  
 Also, I Seek Setting up and 💻 managing a comfortable <br/>
 working environment and communication
 
