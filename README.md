@@ -1,6 +1,6 @@
 Hello!👋 I'm Dohee Kim <br/>
 a Front-end developer interested in user-centric UI implementation and design✨ <br/>
-Also, I Seek Setting up and managing a comfortable working environment and communication💻
+Also, I Seek Setting up and 💻 managing a comfortable working environment and communication
 
 I mainly uses React and functional programming based on TypeScript <br/>
 I'm always interested in new things💫
