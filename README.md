@@ -5,7 +5,6 @@
 
 
 ### Skills
----
 ✔ Front-end 
 <div>
 <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat-square&logo=javascript&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white"/></span> 
@@ -35,12 +34,16 @@
 </div>
 
 
+### OpenSource Contribute
+[Npm Package - Multi Selector Fillter](https://www.youtube.com/?gl=KR&hl=ko)
+[Npm Package - D3 Bubble Chart](https://www.youtube.com/?gl=KR&hl=ko)
+
+
 ### More
----
 ![DOHEE's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=ire4564&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
 
-<div> 🗂  **[About Me](https://irelifesheet.notion.site/About-Me-7abbf9c908424552965646317385d345)** </div>
-<div> 💼 **[Career Resume]([https://www.notion.so/irelifesheet/2022-d8b44b10717e4134868616f8d915027f](https://irelifesheet.notion.site/2022-d8b44b10717e4134868616f8d915027f))** </div>
+**[🗂 About Me](https://irelifesheet.notion.site/About-Me-7abbf9c908424552965646317385d345)** 
+**[💼  Career Resume]([https://www.notion.so/irelifesheet/2022-d8b44b10717e4134868616f8d915027f](https://irelifesheet.notion.site/2022-d8b44b10717e4134868616f8d915027f))** 
 
 ### Connect
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](kimdohee:kimdohee055@gmail.com) kimdohee055@gmail.com
