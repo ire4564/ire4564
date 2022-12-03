@@ -42,5 +42,5 @@
 * [💼 Career Resume](https://irelifesheet.notion.site/2022-d8b44b10717e4134868616f8d915027f)
 
 ## Connect
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](kimdohee:kimdohee055@gmail.com) kimdohee055@gmail.com
+[![kimdohee055@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimdohee055@gmail.com)]
 
