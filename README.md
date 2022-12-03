@@ -15,23 +15,27 @@
 </div>
 </div>
 
-✔ Deployment
+
 <div>
+✔ Deployment <br/>
 <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazon-aws&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/GoogleCloud-00c7b7?style=flat-square&logo=GoogleCloud&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/GitHubActions-181717?style=flat-square&logo=GitHub Actions&logoColor=white"/></span>
 </div>
 
-✔ Version Control
+
 <div>
+✔ Version Control <br/>
 <span><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=NPM&logoColor=white"/></span>
 </div>
 
-✔ Communication 
+
 <div>
+✔ Communication <br/>
 <span><img src="https://img.shields.io/badge/Slack-0052cc?style=flat-square&logo=slack&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=notion&logoColor=white"/></span>
 </div>
 
-✔ Design Skill
+
 <div>
+✔ Design Skill <br/>
 <span><img src="https://img.shields.io/badge/Photoshop-0052cc?style=flat-square&logo=adobe&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Xd-red?style=flat-square&logo=adobe&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Illustrator-ffff?style=flat-square&logo=adobe&logoColor=white"/></span> 
 </div>
 
