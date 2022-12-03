@@ -1,28 +1,19 @@
 
-💜 I'm FE Developer :0 Welcome to my GitHub
-
-**[About Me - Resume](https://irelifesheet.notion.site/About-Me-7abbf9c908424552965646317385d345)**
-
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=ire4564&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=ire4564&layout=compact&theme=dracula)
+### About Me
+- 📝 Study at Chungnam National University (CNU CSE 18)
+- 💼 *Front End Developer* at SANDBOXNETWORK
 
 
-
-# ▎Personal Info
-
-- Kim Do Hee
-- Chungnam National University (CNU)
-- Computer Science and Engineering (CSE) 18
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com) ire4564@gmail.com | kimdohee055@gmail.com
-
-
-
-# ▎Tech Stacks
+### Skills
 
 <div align="center">
   
 Front-end 
 <div>
-<span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat-square&logo=javascript&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white"/></span> <img src="https://img.shields.io/badge/ReactNative-61dafb?style=flat-square&logo=react&logoColor=white"/></span></span> <span><img src="https://img.shields.io/badge/Recoil-0075EB?style=flat-square&logo=Revolut&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></span> 
+<span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat-square&logo=javascript&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white"/></span> 
+<div>  
+<img src="https://img.shields.io/badge/ReactNative-61dafb?style=flat-square&logo=react&logoColor=white"/></span></span> <span><img src="https://img.shields.io/badge/Recoil-0075EB?style=flat-square&logo=Revolut&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></span> 
+</div>
 </div>
 
 Deployment
@@ -47,9 +38,13 @@ Design Skill
 
 </div>
 
-▎More About Me
+### More
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) <img src="https://img.shields.io/badge/velog-00c7b7?style=flat-square&logo=velog&logoColor=white"/> https://velog.io/@ire4564 <span><img src="https://img.shields.io/badge/tistory-f05032?style=flat-square&logo=tistory&logoColor=white"/></span> https://iredays.tistory.com/
+![DOHEE's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=ire4564&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=ire4564&layout=compact&theme=dracula)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) https://www.linkedin.com/in/dohee-kim-9148a91b6
 
+🗂  **[About Me](https://irelifesheet.notion.site/About-Me-7abbf9c908424552965646317385d345)**
+💼 **[Career Resume](https://www.notion.so/irelifesheet/2022-d8b44b10717e4134868616f8d915027f)**
+
+### Connect
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](kimdohee:kimdohee055@gmail.com) kimdohee055@gmail.com
