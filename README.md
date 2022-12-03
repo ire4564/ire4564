@@ -5,10 +5,8 @@
 
 
 ### Skills
-
-<div align="center">
-  
-Front-end 
+---
+✔ Front-end 
 <div>
 <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat-square&logo=javascript&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white"/></span> 
 <div>  
@@ -16,30 +14,29 @@ Front-end
 </div>
 </div>
 
-Deployment
+✔ Deployment
 <div>
 <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazon-aws&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/GoogleCloud-00c7b7?style=flat-square&logo=GoogleCloud&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/GitHubActions-181717?style=flat-square&logo=GitHub Actions&logoColor=white"/></span>
 </div>
 
-Version Control
+✔ Version Control
 <div>
 <span><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=NPM&logoColor=white"/></span>
 </div>
 
-Communication 
+✔ Communication 
 <div>
 <span><img src="https://img.shields.io/badge/Slack-0052cc?style=flat-square&logo=slack&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=notion&logoColor=white"/></span>
 </div>
 
-Design Skill
+✔ Design Skill
 <div>
 <span><img src="https://img.shields.io/badge/Photoshop-0052cc?style=flat-square&logo=adobe&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Xd-red?style=flat-square&logo=adobe&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Illustrator-ffff?style=flat-square&logo=adobe&logoColor=white"/></span> 
 </div>
 
-</div>
 
 ### More
-
+---
 ![DOHEE's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=ire4564&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=ire4564&layout=compact&theme=dracula)
 
 
