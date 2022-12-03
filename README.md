@@ -37,11 +37,10 @@
 
 ### More
 ---
-![DOHEE's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=ire4564&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=ire4564&layout=compact&theme=dracula)
+![DOHEE's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=ire4564&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
 
-
-🗂  **[About Me](https://irelifesheet.notion.site/About-Me-7abbf9c908424552965646317385d345)**
-💼 **[Career Resume](https://www.notion.so/irelifesheet/2022-d8b44b10717e4134868616f8d915027f)**
+<div> 🗂  **[About Me](https://irelifesheet.notion.site/About-Me-7abbf9c908424552965646317385d345)** </div>
+<div> 💼 **[Career Resume]([https://www.notion.so/irelifesheet/2022-d8b44b10717e4134868616f8d915027f](https://irelifesheet.notion.site/2022-d8b44b10717e4134868616f8d915027f))** </div>
 
 ### Connect
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](kimdohee:kimdohee055@gmail.com) kimdohee055@gmail.com
