@@ -9,8 +9,8 @@ interested in user-centric UI implementation and design✨ <br/>
   
 ## About Me
 * 📝 Study at Chungnam National University (CNU CSE 18)
-* 💼 *Front End Developer* at SANDBOXNETWORK
 * 💻 Mainly uses React and functional programming (TypeScript)
+* 💼 *Front End Developer* at SANDBOXNETWORK
 
 
 ## Skills
