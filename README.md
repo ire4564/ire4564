@@ -2,16 +2,18 @@
 
 ![fe](https://user-images.githubusercontent.com/44183221/205431067-fd4bddf3-a353-4e57-89b6-7c6be962eb28.png)
 
-  
+
 <br/>
   
 Hello!👋 I'm Dohee Kim <br/>
-a Front-end developer interested in user-centric UI implementation and design✨ <br/>
-Also, I Seek Setting up and 💻 managing a comfortable working environment and communication
+a Front-end developer interested in <br/>
+user-centric UI implementation and design✨ <br/>
+Also, I Seek Setting up and 💻 managing a comfortable <br/>
+working environment and communication
 
-I mainly uses React and functional programming based on TypeScript <br/>
-I'm always interested in new things💫
-
+I mainly uses React and functional programming <br/>
+based on TypeScript 💫 I'm always interested in new things!
+  
 </div>
   
 ## About Me
