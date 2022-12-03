@@ -42,5 +42,4 @@
 * [💼 Career Resume](https://irelifesheet.notion.site/2022-d8b44b10717e4134868616f8d915027f)
 
 ## Connect
-[![kimdohee055@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimdohee055@gmail.com)]
-
+<a href="https://iredays.tistory.com/"><img src="https://img.shields.io/badge/Tech Record-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://iredays.tistory.com/"/></a>  <a href="mailto:kimdohee055@gmail.com"><img src="https://img.shields.io/badge/kimdohee055@gmail.com-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimdohee055@gmail.com"/></a>
