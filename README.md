@@ -1,3 +1,9 @@
+<div align='center'>
+
+![ddd](https://user-images.githubusercontent.com/44183221/205430423-059f07dc-cc53-4984-9391-cab6c068c2d6.png)
+
+<br/>
+  
 Hello!👋 I'm Dohee Kim <br/>
 a Front-end developer interested in user-centric UI implementation and design✨ <br/>
 Also, I Seek Setting up and 💻 managing a comfortable working environment and communication
@@ -5,6 +11,7 @@ Also, I Seek Setting up and 💻 managing a comfortable working environment and 
 I mainly uses React and functional programming based on TypeScript <br/>
 I'm always interested in new things💫
 
+</div>
   
 ## About Me
 * 📝 Study at Chungnam National University (CNU CSE 18)
