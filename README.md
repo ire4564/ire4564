@@ -1,9 +1,6 @@
 <div align='center'>
   
 ![image](https://user-images.githubusercontent.com/44183221/205432549-02cded65-2a76-4dbe-9d07-aec2d6127d4a.png)
-  
-Hello!👋 I'm Dohee Kim, Front-end developer <br/>
-interested in user-centric UI implementation and design✨ <br/>
 
 </div>
   
