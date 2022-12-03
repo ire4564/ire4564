@@ -1,9 +1,9 @@
 
-<div align='center'>
+
   
 ## About Me
-📝 Study at Chungnam National University (CNU CSE 18) <br/>
-💼 *Front End Developer* at SANDBOXNETWORK
+* 📝 Study at Chungnam National University (CNU CSE 18)
+* 💼 *Front End Developer* at SANDBOXNETWORK
 
 
 ## Skills
@@ -37,17 +37,16 @@
 
 
 ## OpenSource Contribute
-[Npm Package - Multi Selector Fillter](https://www.youtube.com/?gl=KR&hl=ko) <br/>
-[Npm Package - D3 Bubble Chart](https://www.youtube.com/?gl=KR&hl=ko)
+* [Npm Package - Multi Selector Fillter](https://www.youtube.com/?gl=KR&hl=ko)
+* [Npm Package - D3 Bubble Chart](https://www.youtube.com/?gl=KR&hl=ko)
 
 
 ### More
 ![DOHEE's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=ire4564&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
 
-**[🗂 About Me](https://irelifesheet.notion.site/About-Me-7abbf9c908424552965646317385d345)** <br/.
-**[💼 Career Resume](https://www.notion.so/irelifesheet/2022-d8b44b10717e4134868616f8d915027f](https://irelifesheet.notion.site/2022-d8b44b10717e4134868616f8d915027f)** 
+* [🗂 About Me](https://irelifesheet.notion.site/About-Me-7abbf9c908424552965646317385d345)
+* [💼 Career Resume](https://www.notion.so/irelifesheet/2022-d8b44b10717e4134868616f8d915027f](https://irelifesheet.notion.site/2022-d8b44b10717e4134868616f8d915027f)
 
 ### Connect
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](kimdohee:kimdohee055@gmail.com) kimdohee055@gmail.com
 
-</div>
