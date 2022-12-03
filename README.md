@@ -42,5 +42,10 @@ interested in user-centric UI implementation and design✨ <br/>
 * [🗂 About Me](https://irelifesheet.notion.site/About-Me-7abbf9c908424552965646317385d345)
 * [💼 Career Resume](https://irelifesheet.notion.site/2022-d8b44b10717e4134868616f8d915027f)
 
+
+![ire4564's GitHub stats](https://github-readme-stats.vercel.app/api?username=ire4564&theme=vue&show_icons=true)
+
+
+
 ## Connect
 <a href="https://iredays.tistory.com/"><img src="https://img.shields.io/badge/Tech Record-7A78D7?style=flat-square&logo=Tistory&logoColor=white&link=https://iredays.tistory.com/"/></a>  <a href="https://www.linkedin.com/in/dohee-kim-9148a91b6/"><img src="https://img.shields.io/badge/DoHee LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dohee-kim-9148a91b6/"/></a> <a href="mailto:kimdohee055@gmail.com"><img src="https://img.shields.io/badge/kimdohee055@gmail.com-CB3837?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimdohee055@gmail.com"/></a>
