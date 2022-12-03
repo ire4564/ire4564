@@ -1,13 +1,11 @@
 
-
+<div align='center'>
+  
 ![fe](https://user-images.githubusercontent.com/44183221/205431067-fd4bddf3-a353-4e57-89b6-7c6be962eb28.png)
-
-
 <br/>
   
-Hello!👋 I'm Dohee Kim
-a Front-end developer interested in <br/>
-user-centric UI implementation and design✨ <br/>
+Hello!👋 I'm Dohee Kim, Front-end developer <br/>
+interested in user-centric UI implementation and design✨ <br/>
 
 I mainly uses React and functional programming <br/>
 based on TypeScript 💫 I'm always interested in new things!
@@ -17,9 +15,10 @@ based on TypeScript 💫 I'm always interested in new things!
 * 📝 Study at Chungnam National University (CNU CSE 18)
 * 💼 *Front End Developer* at SANDBOXNETWORK
 
+</div>
+
 
 ## Skills
-
 
 * Front-end <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat-square&logo=javascript&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/ReactNative-61dafb?style=flat-square&logo=react&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Recoil-0075EB?style=flat-square&logo=Revolut&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></span> 
 
