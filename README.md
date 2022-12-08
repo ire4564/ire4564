@@ -31,9 +31,8 @@
 
 
 ## OpenSource Contribute
-* [Npm Package - Multi Selector Fillter](https://www.youtube.com/?gl=KR&hl=ko)
-* [Npm Package - D3 Bubble Chart](https://www.youtube.com/?gl=KR&hl=ko)
-
+* [Npm Package - D3 Bubble Chart]([https://www.youtube.com/?gl=KR&hl=ko](https://github.com/ire4564/react-d3-tooltip-bubble-chart.git))
+* Npm Package - Multi Selector Fillter (Updating)
 
 ## More
 * [🗂 About Me](https://irelifesheet.notion.site/About-Me-7abbf9c908424552965646317385d345)
