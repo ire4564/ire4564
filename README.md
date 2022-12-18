@@ -1,9 +1,3 @@
-<div align='center'>
-  
-![image](https://user-images.githubusercontent.com/44183221/205432549-02cded65-2a76-4dbe-9d07-aec2d6127d4a.png)
-  
-</div>
-
 ## About Me
 * 📝 Study at Chungnam National University (CNU CSE 18)
 * 💻 Mainly uses React and functional programming (TypeScript)
@@ -31,7 +25,7 @@
 
 
 ## OpenSource Contribute
-* [Npm Package - D3 Bubble Chart](https://github.com/ire4564/react-d3-tooltip-bubble-chart.git)
+* [Npm Package - D3 Bubble Chart](https://www.npmjs.com/package/react-tooltip-bubble-chart?activeTab=readme)
 * Npm Package - Multi Selector Fillter (Updating)
 
 ## More
