@@ -30,7 +30,7 @@
 
 ## More
 * [🗂 About Me](https://irelifesheet.notion.site/About-Me-7abbf9c908424552965646317385d345)
-* [💼 Career Resume](https://irelifesheet.notion.site/2022-d8b44b10717e4134868616f8d915027f)
+* [💼 Career Resume](https://irelifesheet.notion.site/KimDoHee-2023-fcac07fde73948de9b91b53421c912fa)
 
 
 ![ire4564's GitHub stats](https://github-readme-stats.vercel.app/api?username=ire4564&theme=vue&show_icons=true)
