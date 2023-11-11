@@ -2,7 +2,7 @@
 * 📝 Study at Chungnam National University (CNU CSE 18)
 * 💻 Mainly uses React and functional programming (TypeScript)
 * 💼 *Front End Developer* at SANDBOXNETWORK
-* 💼 *Front End Developer* at Backpacker (steadio)
+* 💼 *Front End Developer* at BACKPACKER (steadio)
 
 
 ## Skills
